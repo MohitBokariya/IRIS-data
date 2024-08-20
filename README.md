@@ -5,5 +5,4 @@ This script require FetchData script to download seismic data Can Dowload latest
 https://earthscope.github.io/fetch-scripts/
 
 Tutorial of FetchData scripts can be found here - 
-
 https://earthscope.github.io/fetch-scripts/docs/tutorial/
