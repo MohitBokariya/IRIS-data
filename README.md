@@ -1,6 +1,6 @@
 # IRIS-data
 This bash script download IRIS seismic data in SAC format from any available network station.
-
+In Linux you will require "mseed2sac" before running script. Can be install using this command-  sudo apt install mseed2sac
 This script require FetchData script to download seismic data Can Dowload latest version of FetchData scripts from here - 
 https://earthscope.github.io/fetch-scripts/
 
