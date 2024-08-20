@@ -1,4 +1,4 @@
-# IRIS-data
+# The Incorporated Research Institutions for Seismology (IRIS) - Seismic Data
 This bash script download IRIS seismic data in SAC format from any available network station.
 
 In Linux you will require "mseed2sac" (to convert mseed data to SAC format) before running script. Can be install using this command-  sudo apt install mseed2sac
